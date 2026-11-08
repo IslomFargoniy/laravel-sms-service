@@ -7,7 +7,7 @@
 - 📬 Sysdc
 - 🤖 Telegram Bot
 
-> Developed by [@islamabdurahman](https://github.com/islamabdurahman)
+> Developed by [@IslomFargoniy](https://github.com/IslomFargoniy)
 
 ---
 
